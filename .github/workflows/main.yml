@@ -20,7 +20,7 @@ jobs:
       
       
   my_deploy:
-    runs-on: ubunty-latest
+    runs-on: ubuntu-latest
     
     steps:
     - name: Print Hello Message
